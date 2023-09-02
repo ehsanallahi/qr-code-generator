@@ -17,7 +17,7 @@ function App() {
 
   const config = {
     //72299a80-4929-11ee-8686-fd0edd160dd9
-    headers: { Authorization: 'Bearer 72299a80-4929-11ee-8686-fd0edd160dd9' }
+   // headers: { Authorization: 'Bearer 72299a80-4929-11ee-8686-fd0edd160dd9' }
   }
   const bodyParameters = {
     "colorDark": inputValue.color,
